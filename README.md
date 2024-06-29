@@ -6,10 +6,12 @@ This project explores the domain of online electronics sales through the analysi
 Python Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
 ## **Task List**:
-
 •	  Import libraries and load data
+
 •	  Clean and pre-process data
+
 •	  Conduct exploratory data analysis
+
 •	  Draw conclusions and insights
 
 
